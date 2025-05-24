@@ -1,13 +1,13 @@
 # BeyondChats Node Frontend Assignment
 
 Welcome! 👋  
-This repository contains my submission for the **BeyondChats Paid Internship Assignment**. The goal of this project was to replicate the UI and functionality of Intercom's AI-enhanced admin panel, as showcased in the [demo video](https://drive.google.com/file/d/1WVvh4VmKJQ6jisIbzfutVmmeZj7IuD4c/view?usp=sharing).
+This repository contains my submission for the **BeyondChats Paid Internship Assignment**. The goal of this project was to replicate the UI and functionality of Intercom's AI-enhanced admin panel.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Live Website Link](https://your-deployed-url.com)
+🔗 [Live Website Link](https://beyondchat-assinment.vercel.app/)
 
 ---
 
@@ -34,7 +34,7 @@ This repository contains my submission for the **BeyondChats Paid Internship Ass
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/beyondchats-assignment.git
+git clone https://github.com/ayushdasgupta/beyondchat-assinment
 cd beyondchats-assignment
 
 # Install dependencies
